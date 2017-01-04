@@ -1,9 +1,28 @@
 .first {
   background: red;
+  color: white;
 }
 .third {
   background: red;
 }
 .pink {
   background: pink;
+}
+.left {
+  color: orange;
+}
+.right {
+  color: orange;
+}
+h4 {
+  color: orange;
+}
+h3, h5 {
+  color: black;
+}
+h6 {
+  color: grey;
+}
+.third h3 {
+  color: white;
 }
