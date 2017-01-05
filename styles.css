@@ -16,7 +16,7 @@
 }
 .first {
   width: 300px;
-  margin: 150px;
+  margin: 0 150px;
 }
 .hr {
   float: left;
@@ -28,7 +28,7 @@
 
 /*second div white*/
 .second {
-  margin: 150px;
+  margin: 0 150px;
 }
 
 /*third div red*/
@@ -36,7 +36,7 @@
   background: red;
 }
 .third {
-  margin: 150px;
+  margin: 0 150px;
   /*background: red;*/
 }
 .shoes2 {
