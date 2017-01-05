@@ -1,7 +1,21 @@
-.first {
+/*HEADER*/
+.header {
+  display: inline-block;
+}
+/*FIRST RED DIV*/
+.first-div {
   background: red;
   color: white;
 }
+.shoe1 {
+  height: 175px;
+}
+.first {
+
+}
+
+
+
 .third {
   background: red;
 }
@@ -10,9 +24,11 @@
 }
 .left {
   color: orange;
+  /*float: left;*/
 }
 .right {
   color: orange;
+  /*float: right;*/
 }
 h4 {
   color: orange;
