@@ -9,19 +9,42 @@
 }
 .shoe1 {
   height: 175px;
+  margin: 150px;
 }
 .first {
-
+  width: 300px;
+  margin: 150px;
+}
+.hr {
+  float: left;
+}
+.button {
+  display: inline-block;
+  margin: 150px;
 }
 
+/*second div white*/
+.second {
+  margin: 150px;
+}
 
-
-.third {
+/*third div red*/
+.red {
   background: red;
+}
+.third {
+  margin: 150px;
+  /*background: red;*/
+}
+.shoes2 {
+  height: 175px;
+  margin: 150px;
 }
 .pink {
   background: pink;
 }
+
+/*footer*/
 .left {
   color: orange;
   /*float: left;*/
