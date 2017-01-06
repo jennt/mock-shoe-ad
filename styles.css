@@ -36,12 +36,12 @@
   background: red;
 }
 .third {
-  margin: 0 150px;
+  /*margin: 0 150px;*/
   /*background: red;*/
 }
 .shoes2 {
   height: 175px;
-  margin: 0 150px;
+  /*margin: 0 150px;*/
 }
 .shoes3 {
   display: inline-block;
@@ -53,11 +53,9 @@
 /*footer*/
 .left {
   color: orange;
-  /*float: left;*/
 }
 .right {
   color: orange;
-  /*float: right;*/
 }
 h4 {
   color: orange;
