@@ -42,7 +42,9 @@
 .shoes2 {
   height: 175px;
   margin: 0 150px;
-  /*display: inline-block;*/
+}
+.shoes3 {
+  display: inline-block;
 }
 .pink {
   background: pink;
