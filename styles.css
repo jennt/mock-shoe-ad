@@ -23,7 +23,7 @@
 }
 .button {
   display: inline-block;
-  margin: 150px;
+  margin: 0 150px;
 }
 
 /*second div white*/
@@ -41,7 +41,8 @@
 }
 .shoes2 {
   height: 175px;
-  margin: 150px;
+  margin: 0 150px;
+  /*display: inline-block;*/
 }
 .pink {
   background: pink;
